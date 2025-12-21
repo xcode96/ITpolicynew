@@ -1,0 +1,5 @@
+{
+  "name": "IT Policy Portal",
+  "description": "A portal for managing and viewing your organization's IT security and compliance policies. Edit, import, export, and sync your policies from a central JSON file.",
+  "requestFramePermissions": []
+}
